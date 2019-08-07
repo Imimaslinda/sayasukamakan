@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\imimas\imimas\bin\Debug\imimas.exe.config
+C:\Users\user\source\repos\imimas\imimas\bin\Debug\imimas.exe
+C:\Users\user\source\repos\imimas\imimas\bin\Debug\imimas.pdb
+C:\Users\user\source\repos\imimas\imimas\bin\Debug\imimas.xml
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.Form1.resources
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.Form2.resources
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.Form3.resources
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.Resources.resources
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.exe
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.xml
+C:\Users\user\source\repos\imimas\imimas\obj\Debug\imimas.pdb
